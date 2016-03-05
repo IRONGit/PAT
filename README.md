@@ -17,6 +17,11 @@
 	        <td>20 </td>
 	      </tr>
 	      <tr>
+	        <td> 1044</td>
+	        <td>16 </td>
+	        <td>20 </td>
+	      </tr>
+	      <tr>
 	        <td> 1045</td>
 	        <td>21 </td>
 	        <td>25 </td>
@@ -30,16 +35,6 @@
 	        <td>Advanced Level</td>
 	        <td>得分</td>
 	        <td>满分</td>
-	      </tr>
-	      <tr>
-	        <td>1003</td>
-	        <td>18 </td>
-	        <td>20 </td>
-	      </tr>
-	      <tr>
-	        <td> 1045</td>
-	        <td>21 </td>
-	        <td>25 </td>
 	      </tr>
     	</table>
     </td>
