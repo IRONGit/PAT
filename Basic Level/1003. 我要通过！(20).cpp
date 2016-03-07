@@ -10,11 +10,17 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	int n;
 	cin >> n;
+<<<<<<< HEAD
 	fflush(stdin);
 	for (int i = 0; i < n; i++){
 		string s;
 		getline(cin, s);
 		//cin >> s;
+=======
+	for (int i = 0; i < n; i++){
+		string s;
+		cin >> s;
+>>>>>>> 0266e5df6f674fc3fe68f5bdc24ffc13f689fbc7
 		int indexP = s.find('P');
 		int indexA = s.find('A');
 		int indexT = s.find('T');
